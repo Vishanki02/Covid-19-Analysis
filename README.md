@@ -29,5 +29,5 @@ The dashboard includes:
 ## Technologies Used
 - **SQL** (Data Extraction & Processing)
 - **Tableau** (Visualization & Dashboard)
-- **OpenStreetMap** (Geospatial Mapping)
+
 
